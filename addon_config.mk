@@ -16,10 +16,10 @@
 
 meta:
 	ADDON_NAME = ofxcppzmq
-	ADDON_DESCRIPTION = ZeroMQ core engine in C++
+	ADDON_DESCRIPTION = ZeroMQ for OpenframeWorks
 	ADDON_AUTHOR = Katsuyoshi Hotta
-	ADDON_TAGS = "computer vision" "opencv" "image processing"
-	ADDON_URL = https://github.com/zeromq/libzmq
+	ADDON_TAGS = "network" "ZeroMQ"
+	ADDON_URL = https://github.com/saccadic/ofxcppzmq
 
 common:
 	# dependencies with other addons, a list of them separated by spaces
